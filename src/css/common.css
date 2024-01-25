@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.button-swicher{
+  display: flex;
+  justify-content: center;
+  margin-top: 170px;
+  gap: 10px;
+}
+.button{
+  width: 200px;
+  height: 70px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  font-size: 40px;
+}
